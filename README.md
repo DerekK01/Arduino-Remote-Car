@@ -1,5 +1,5 @@
 # Arduino-Remote-Car
-2017 Year 10 Robotic project by Derek Kwan
+Robotic project by Derek Kwan
 
 Created in Arduino IDE with C++
 
